@@ -1,5 +1,5 @@
 # Commerce EventIds
-Below are the list of events emitted to customer application insights
+Below are the list of events currently emitted to customer application insights
 
 | Event Id | Event Name |
 | :------- | :--------- |
