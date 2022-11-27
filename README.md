@@ -14,7 +14,7 @@ Kusto queries and dashboards for Dynamics 365 Commerce/ Finance and Operations o
 Operational Insights is a Dynamics 365 Finance and Operations/ Commerce HQ out of box feature to enable commerce scale units diagnostic events in customer application insights subscription.
 
 # Prerequisites
-- Azure Application Insights resource. Refer [Create an Appliation Insights resource](https://learn.microsoft.com/en-us/azure/azure-monitor/app/create-new-resource#create-an-application-insights-resource-1)
+- Azure Application Insights resource. Refer [Create an Application Insights resource](https://learn.microsoft.com/en-us/azure/azure-monitor/app/create-new-resource#create-an-application-insights-resource-1)
 - Or an existing Application Insights Instrumentation Key
 - Operations Insights feature enabled. Refer [How to enable](#how-to-enable)
 - Experience with Kusto query language. Refer [language overview](https://docs.microsoft.com/en-us/azure/kusto/query/) for language overview and tutorial
