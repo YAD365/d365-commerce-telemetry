@@ -6,7 +6,7 @@ Kusto queries and dashboards for Dynamics 365 Commerce/ Finance and Operations o
 - [Prerequisites](#prerequisites)
 - [Enable Operational Insights](#how-to-enable)
 - [Supported Events](Kusto/README.md)
-- [Sample Kusto Queries](Kusto/Sample/README.md)
+- [Sample Kusto Queries](Kusto/Sample/RetailAPILatency.md)
 - [Sample Dashboards](Kusto/Downloads/README.md)
 
 # Introduction
